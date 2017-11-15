@@ -1,0 +1,12 @@
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\bin\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.deps.json
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\bin\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.runtimeconfig.json
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\bin\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.runtimeconfig.dev.json
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\bin\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.dll
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\bin\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.pdb
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.csprojResolveAssemblyReference.cache
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.csproj.CoreCompileInputs.cache
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.AssemblyInfoInputs.cache
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.AssemblyInfo.cs
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.dll
+C:\Identity.Dapper-master\samples\Identity.Dapper.Samples.Web\obj\Debug\netcoreapp2.0\Identity.Dapper.Samples.Web.pdb
